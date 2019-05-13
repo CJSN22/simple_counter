@@ -1,0 +1,16 @@
+/* 
+    General Styles
+*/
+.counter div{
+    display: inline-block;
+    
+    color: white;
+    font-size: 100px;
+    
+    margin: 10px
+}
+
+.counter {
+    background-color: black;
+    text-align: center;
+}
